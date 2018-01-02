@@ -1,0 +1,97 @@
+---
+layout: default_ak
+pagetitle: Research
+title: Selected Research and Software
+root: ""
+extra: particles
+---
+<div class="wrapper">
+    <div class="left">
+     <a href="http://github.com/resteorts/" target=_blank><img src="images/er.png" class="image-thumbnail"></a>   
+    </div>
+    <div class="right">
+        <h4>Entity Resolution</h4>
+        <p>
+	  
+     Very often information about social entities is scattered across multiple databases.  Combining that information into one database can result in enormous benefits for analysis, resulting in richer and more reliable conclusions.  In most practical applications, however, analysts cannot simply link records across databases based on unique identifiers, such as social security numbers, either because they are not a part of some databases or are not available due to privacy concerns.  In such cases, analysts need to use methods from statistical and computational science known as entity resolution (also called record linkage or de-duplication) to proceed with analysis.  Entity resolution is not only a crucial task for social science and industrial applications, but is a challenging statistical and computational problem itself, because many databases contain errors (noise, lies, omissions, duplications, etc.), and the number of parameters to be estimated grows with the number of records. Building methods and algorithms for entity resolution that have public policy implications is at the core of my research. Case studies of my methods have been applied to the Syrian conflict, official statistics, voter registration data, and health care data, illustrating the flexibility and wide range of applicability of my methods to be used on data sets that are becoming increasingly more important in the health and social sciences.
+	
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="left">
+       
+    </div>
+    <div class="right">
+        <h4>Bayesian Entity Resolution</h4>
+        <p>
+       This paper proposes the first method, to our knowledge, to simultaneously perform entity resolution for more than two databases while propagating the uncertainty asso- ciated with the entity resolution process. Records are clustered to similar records using a latent variable model, where the underlying data is assumed to be corrupt, noisy, and dis- torted; such a distortion process is embedded into the model. The records are clustered using a data structure, called the linkage structure, which along with a Metropolis within Gibbs sampler, allows the posterior to be updated quickly.
+          <p>
+        [<a href="https://arxiv.org/abs/1312.4645" target=_blank/>paper</a>][<a href="http://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1105807?src=recsys&journalCode=uasa20" target=_blank/>paper</a>][<a href="https://github.com/resteorts/smered" target=_blank>github</a>]
+        </p>  </p>
+        <p>
+        </p>
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="left">
+       
+    </div>
+    <div class="right">
+        <h4>Empirical Bayesian Entity Resolution (blink) </h4>
+        <p> As in Steorts, Hall, Fienberg (2014, 2016), the entity resolution problem is framed by linking observed records to latent entities and representing the links and non- links via the linkage structure. The contributions of this paper are the following: The model allows one to model categorical data and text data. In order to allow for tractability of the conditional distributions, an empirically motivated approach is taken with regards to several priors. In addition, the distance function for the text data is arbitrary and can be chosen by the user to allow for utmost flexibility. Turning to the experiments, the model was evaluated on both synthetic and real data from Italian household surveys. In the case of the synthetic data, we make comparisons to semi-supervised methods that are commonly used in record linkage, namely logistic regression, Bayesian Adaptive Regression Trees (BART), and random forests, illustrating that our method does as well or better based upon the recall and precision (or false negative rate and false discovery rates). A sensitivity analysis is then performed for all assumed hyper-parameters in the model and a discussion is given regarding the sensitivity and robustness, which is a known problem in the entity resolution literature.
+	  
+        </p>
+        <p>
+        [<a href="https://arxiv.org/abs/1409.0643" target=_blank/>paper</a>][<a href="https://projecteuclid.org/euclid.ba/1441790411" target=_blank/>paper</a>][<a href="https://github.com/resteorts/blink" target=_blank>github</a>]
+        </p>
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="left">
+       
+    </div>
+    <div class="right">
+        <h4>Unique Entity Resolution</h4>
+        <p>
+        Estimation of death counts and associated standard errors are of great impor- tance in armed conflicts such as the ongoing violence in Syria, as well as historical conflicts in Guatemala, Peru, and elsewhere. Given a data set with records that have duplicated en- tities, our goal is to estimate the number of unique records with an overall computational cost drastically less than quadratic. To achieve this goal, we formalize it as approximating the number of connected components in a graph with sub-quadratic queries for edges. This proposal is first to describe efficient adaptive locality sensitive hashing on edges to estimate the connected components, where we show under realistic assumptions that our estimator is unbiased and has provably low variance. In addition, we provide empirical results on three real data sets as well as a case study on a subset of the Syrian conflict comparing to fundamental work done by the Human Rights Data Analysis Group (<a href="https://hrdag.org/" target=_blank>HRDAG</a>) in 2014.
+        </p>
+        <p>
+        [<a href="https://arxiv.org/abs/1710.02690" target=_blank/>paper</a>]
+        </p>
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="left">
+       
+    </div>
+    <div class="right">
+        <h4>Blocking Comparisons for Entity Resolution</h4>
+        <p>
+         The contributions of this paper are three fold. First, we review commonly used blocking techniques in both the computer science and statistics literature. Second, we pro- pose two new blocking techniques, one based upon random projections and another based upon locality sensitive hashing that preserves transitive connections of the graph. Third, we prove the computational complexity of all methods and give comparisons of all methods on simulated methods on errors rates and computational run time. The strengths and weakness of all methods are discussed for potential users in practice.
+        </p>
+        <p>
+         [<a href="https://arxiv.org/abs/1407.3191" target=_blank/>paper</a>][<a href="https://link.springer.com/book/10.1007%2F978-3-319-11257-2?page=2" target=_blank/>paper</a>]
+        </p>
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="left">
+        
+    </div>
+    <div class="right">
+        <h4>Microclustering</h4>
+        <p>
+        Conventional clustering models presume that the goal is to divide the data into a small number of high-probability clusters. Even if this is somewhat loosened to allow for a large number of clusters, each having low probability as in some Bayesian non-parametric models, every cluster still has strictly positive probability. This has two consequences as the number of observations grows. First, every cluster is observed infinitely often. Indeed, under exchangeability, observing a data point from a cluster generally makes it more prob- able to observe more data from that cluster in the future. Second, because every cluster is observed infinitely often, the usual asymptotic theory applies to inferring cluster proper- ties or parameters. Uncertainty about what each cluster is like shrinks to zero in the limit. First, we proposed the microclustering property, which addresses this problem. Second, we proposed a general set of models — Flexible Microclustering Models (FMMs) — which satisfy the microclustering property, and developed FMMs for record linkage tasks. Third, even the most efficient MCMC approaches are expected to converge slowly in very large and high-dimensional spaces. This is especially problematic for record linkage, since the number of latent variables to be inferred will grow with the number of records. Due to this, a new MCMC algorithm, the chaperones algorithm, was proposed and implemented in our paper. Finally, we illustrated our methodology, with comparisons to the Pitman-Yor process and the Dirichlet Process, for four experiments.
+        </p>
+        <p>
+        [<a href="https://arxiv.org/abs/1610.09780" target=_blank>paper</a>][<a href="https://papers.nips.cc/paper/6334-flexible-models-for-microclustering-with-application-to-entity-resolution.pdf" target=_blank>paper</a>]
+        <p>
+    </div>
+</div>
+
+

@@ -1,0 +1,18 @@
+name: Rebecca C. Steorts
+description: Assistant Professor, Duke University
+url: http://www2.stat.duke.edu/~rcs46/
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+rdiscount extensions: [smart]
+navigation:
+- text: Home
+  url: /index.html
+- text: CV
+  url: /cv.html
+- text: Research
+  url: /research.html  
+- text: Teaching
+  url: /teaching.html
+- text: Bio
+  url: /bio.html
+  layout: post_ak
