@@ -10,13 +10,14 @@ My teaching vision is simple: teach with verve and enthusiasm, be yourself, and 
 
 ### Course taught at Duke University 
 
-* STA 325 - Data Mining and Maching Learning
+* STA 325 - Machine Learning and Data Mining (Undergraduate Course)
     + [Fall 2017](https://github.com/resteorts/data-mine/blob/master/syllabus/syllabus-data-mine-17.pdf) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/data-mine)</small>
+    + [Fall 2018](https://github.com/resteorts/data-mine/blob/master/syllabus/syllabus-data-mine-18.pdf) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/data-mine)</small>
 
-* STA 794 - Advances in Modern Record Linkage 
+* STA 794 - Advances in Modern Record Linkage (Graduate Course)
     + [Fall 2016](https://github.com/resteorts/data-mine/blob/master/syllabus17/syllabus-data-mine-17.pdf) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/recordLinkageSpecialTopics)</small>
 
-* STA 360/602 - Bayesian Methods and Modern Statistics 
+* STA 360/602 - Bayesian Methods and Modern Statistics (Combined Undergraduate/Graduate Course)
      + [Spring 2018](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-fall18.pdf) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/modern-bayes)</small>
      + [Spring 2017](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-fall17.pdf) 
      + [Spring 2016](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-fall16.pdf)
@@ -24,22 +25,22 @@ My teaching vision is simple: teach with verve and enthusiasm, be yourself, and 
 ### Courses taught at CMU
     
     
-* STA 36-786,787: Introduction to Bayesian Theory 
+* STA 36-786,787: Introduction to Bayesian Theory (Graduate Course)
     + [Spring 2013](https://github.com/resteorts/essential_bayes/blob/master/syllabus/syllabus_btheory.pdf):: <small>[SOURCE ON GITHUB](https://github.com/resteorts/essential_bayes)</small>
     + [Spring 2013](https://github.com/resteorts/essential_bayes/blob/master/syllabus/syllabus_btheory2.pdf)
 
-* STA 36-464: Introduction to Multivariate Methods and Machine Learning 
+* STA 36-464: Introduction to Multivariate Methods and Machine Learning (Combined Undergraduate/Graduate Course) 
     + [Spring 2014](https://github.com/resteorts/data-mine/blob/master/syllabus/syllabus_multivar.pdf) 
 
 ### Courses taught at University of Florida
 
-+ STA 4930: Introduction to Bayesian Statistics (Honors)
++ STA 4930: Introduction to Bayesian Statistics (Honors Undergraduate Course)
     + [Spring 2013](https://github.com/resteorts/essential_bayes/blob/master/syllabus/syllabus_btheory.pdf):: <small>[SOURCE ON GITHUB](https://github.com/resteorts/baby_baby)
 
 ### Courses taught at Clemson University 
 
-* MTHSC 203: Elementary Statistical Inference
+* MTHSC 203: Elementary Statistical Inference (Undergraduate Course)
     + Spring 2005 
 
-* MTHSC 104: Precalculus and Introductory Differential Calculus
+* MTHSC 104: Precalculus and Introductory Differential Calculus (Undergraduate Course)
     + Fall 2005
