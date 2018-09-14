@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default_ak
 title: About
 permalink: /about/
 ---
