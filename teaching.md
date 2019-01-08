@@ -10,6 +10,12 @@ My teaching vision is simple: teach with verve and enthusiasm, be yourself, and 
 
 ### Course taught at Duke University 
 
+* STA 360/602 - Bayesian Methods and Modern Statistics (Combined Undergraduate/Graduate Course)
+     + [Spring 2019](teach/bayes19.md) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/modern-bayes)</small>
+     + [Spring 2018](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring18.pdf)
+     + [Spring 2017](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring17.pdf) 
+     + [Spring 2016](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring16.pdf)
+
 * STA 325 - Machine Learning and Data Mining (Undergraduate Course)
     + [Fall 2017](https://github.com/resteorts/data-mine/blob/master/syllabus/syllabus-data-mine-17.pdf) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/data-mine)</small>
     + [Fall 2018](teach/datamine18.html) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/data-mine)</small>
@@ -17,11 +23,7 @@ My teaching vision is simple: teach with verve and enthusiasm, be yourself, and 
 * STA 794 - Advances in Modern Record Linkage (Graduate Course)
     + [Fall 2016](https://github.com/resteorts/data-mine/blob/master/syllabus17/syllabus-data-mine-17.pdf) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/recordLinkageSpecialTopics)</small>
 
-* STA 360/602 - Bayesian Methods and Modern Statistics (Combined Undergraduate/Graduate Course)
-     + [Spring 2019](teach/bayes18) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/modern-bayes)</small>
-     + [Spring 2018](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring18.pdf)
-     + [Spring 2017](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring17.pdf) 
-     + [Spring 2016](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring16.pdf)
+
 
 ### Courses taught at CMU
     
