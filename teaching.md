@@ -19,7 +19,7 @@ My teaching vision is simple: teach with verve and enthusiasm, be yourself, and 
 
 * STA 360/602 - Bayesian Methods and Modern Statistics (Combined Undergraduate/Graduate Course)
      + [Spring 2019](teach/bayes18) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/modern-bayes)</small>
-     + [Spring 2018](teach/bayes18) :: <small>[SOURCE ON GITHUB](syllabus-sta602-fall18.pdf)</small>
+     + [Spring 2018](teach/bayes18) :: <small>[SOURCE ON GITHUB](syllabus-sta602-spring18.pdf)</small>
      + [Spring 2017](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-fall17.pdf) 
      + [Spring 2016](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-fall16.pdf)
 
