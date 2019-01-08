@@ -21,7 +21,7 @@ My teaching vision is simple: teach with verve and enthusiasm, be yourself, and 
      + [Spring 2019](teach/bayes18) :: <small>[SOURCE ON GITHUB](https://github.com/resteorts/modern-bayes)</small>
      + [Spring 2018](teach/bayes18)(https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring18.pdf)
      + [Spring 2017](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring17.pdf) 
-     + [Spring 2016](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus_duke_bayes_601_spring16)
+     + [Spring 2016](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring16.pdf)
 
 ### Courses taught at CMU
     
