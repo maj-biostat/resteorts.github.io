@@ -38,3 +38,15 @@ Module 5: Non-informative, Default, Objective Bayes
 
 Module 6: Monte Carlo
 + [Lecture 6: Monte Carlo](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-6/06-monte-carlo.pdf)
+
+Module 7: The Metropolis Algorithm 
++ [Lecture 7: The Metropolis Algorithm](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-7/07-metropolis.pdf)
+
+Module 8: Gibbs Sampling and Missing Data
++ [Lecture 8: The Two-stage Gibbs Sampler](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-gibbs.pdf)
++ [Lecture 9: The Multi-stage Gibbs Sampler](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-gibbs-multistage.pdf)
++ [Lecture 10: Data augmentation (part I)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment.pdf)
++ [Lecture 11: Data augmentation (part II)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment-part2.pdf)
+
+
+Module 9: 
