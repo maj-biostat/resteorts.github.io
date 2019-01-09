@@ -11,7 +11,7 @@ Bayesian Methods and Modern Statistics, Spring 2019 (Combined Undergraduate/Grad
 
 Module 0: Introduction to Course 
 
-+ [Lecture 0](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-0/00-intro-to-Bayes.pdf)
++ [Lecture 0: Intro to the Course](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-0/00-intro-to-Bayes.pdf)
 + [Syllabus](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring19.pdf)
 + [Google group](https://groups.google.com/forum/#!forum/bayes19)
 
