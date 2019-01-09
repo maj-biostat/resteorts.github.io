@@ -28,3 +28,13 @@ Module 2: Intro to Decision Theory
  Module 3: Introduction to Normality 
 
 + [Lecture 3: Intro to Normality](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-3/03-normal-distribution.pdf)
+
+Module 4: The Normal-Gamma Model
+
++ [Lecture 4: Normal-Gamma Model](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-4/04-normal-gamma.pdf)
+
+Module 5: Non-informative, Default, Objective Bayes
++ [Lecture 5: Non-informative Bayes](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-5/lecture5-objective.pdf)
+
+Module 6: Monte Carlo
++ [Lecture 6: Monte Carlo](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-6/06-monte-carlo.pdf)
