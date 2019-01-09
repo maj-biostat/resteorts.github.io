@@ -42,11 +42,22 @@ Module 6: Monte Carlo
 Module 7: The Metropolis Algorithm 
 + [Lecture 7: The Metropolis Algorithm](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-7/07-metropolis.pdf)
 
-Module 8: Gibbs Sampling and Missing Data
+Module 8: Gibbs Sampling and Data Augmentation
 + [Lecture 8: The Two-stage Gibbs Sampler](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-gibbs.pdf)
 + [Lecture 9: The Multi-stage Gibbs Sampler](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-gibbs-multistage.pdf)
 + [Lecture 10: Data augmentation (part I)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment.pdf)
 + [Lecture 11: Data augmentation (part II)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment-part2.pdf)
 
 
-Module 9: 
+Module 9: Multivariate Normal and Missing Data
++ [Lecture 12: Multivariate Normal](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-9/09-multivariate-norm.pdf)
++ [Lecture 13: Missing Data](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-9/09-missing-data.pdf)
+
+Module 10: Linear and Probit Regression 
+
++ [Lecture 13: Linear Regression](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-10/10-linear-regression.pdf)
++ [Lecture 14: Probit Regression](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-10/10-probit-regression.pdf)
+
+Module 11: Model Selection
+
++ [Lecture 15: Model Selection](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-11/11-model-selection.pdf)
