@@ -14,6 +14,8 @@ Module 0: Introduction to Course
 + [Lecture 0: Intro to the Course](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-0/00-intro-to-Bayes.pdf)
 + [Syllabus](https://github.com/resteorts/modern-bayes/blob/master/syllabus/syllabus-sta602-spring19.pdf)
 + [Google group](https://groups.google.com/forum/#!forum/bayes19)
++ [Labs](https://github.com/resteorts/modern-bayes/tree/master/labs)
++ [Practice Exercises for Exams](https://github.com/resteorts/modern-bayes/tree/master/exercises)
 
 
 Module 1: History of Bayes/Intro to Bayes 
