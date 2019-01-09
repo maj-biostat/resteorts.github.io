@@ -21,4 +21,10 @@ Module 1: History of Bayes/Intro to Bayes
 + [Lecture 1: History of Bayes](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-1/01-history-of-Bayes.pdf)
 + [Lecture 2: Intro to Bayes](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-1/01-intro-to-Bayes.pdf)
 
-Module 2: 
+Module 2: Intro to Decision Theory
+
++ [Lecture 2: Intro to Decision Theory](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-2/02-intro-to-Bayes.pdf)
+
+ Module 3: Introduction to Normality 
+
++ [Lecture 3: Intro to Normality](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-3/03-normal-distribution.pdf)
