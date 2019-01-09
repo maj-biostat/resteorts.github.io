@@ -16,4 +16,9 @@ Module 0: Introduction to Course
 + [Google group](https://groups.google.com/forum/#!forum/bayes19)
 
 
-Module 1: 
+Module 1: History of Bayes/Intro to Bayes 
+
++ [Lecture 1: History of Bayes](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-1/01-history-of-Bayes.pdf)
++ [Lecture 2: Intro to Bayes](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-1/01-intro-to-Bayes.pdf)
+
+Module 2: 
