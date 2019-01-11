@@ -18,8 +18,8 @@ Bayesian Methods and Modern Statistics, Spring 2019 (Combined Undergraduate/Grad
 Other Resources
 + [Learning Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 + [Review of R](https://github.com/resteorts/data-mine/blob/master/lectures_2018/00-intro/00-intro-to-R.pdf)
-+ [PhD Lecture Notes]()
-+ [Undergrad Lecture Notes]()
++ [PhD Lecture Notes](https://github.com/resteorts/modern-bayes/blob/master/reading/babybayes-master.pdf)
++ [Undergrad Lecture Notes](https://github.com/resteorts/modern-bayes/blob/master/reading/essential_bayes.pdf)
 
 
 
