@@ -20,6 +20,7 @@ Other Resources
 + [Review of R](https://github.com/resteorts/data-mine/blob/master/lectures_2018/00-intro/00-intro-to-R.pdf)
 + [PhD Lecture Notes](https://github.com/resteorts/modern-bayes/blob/master/reading/babybayes-master.pdf)
 + [Undergrad Lecture Notes](https://github.com/resteorts/modern-bayes/blob/master/reading/essential_bayes.pdf)
++ [Extra Practice with Functions](https://github.com/resteorts/data-mine/tree/master/lectures_2018)
 
 
 
