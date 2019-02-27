@@ -57,7 +57,7 @@ Module 4: The Normal-Gamma Model
 + [Lab 4: Normal Gamma Conjugacy (February 13)](https://github.com/resteorts/modern-bayes/blob/master/labs/04-intro-gaussian/lab4IntroductiontoBayes.pdf)
 
 Module 5: Non-informative, Default, Objective Bayes
-+ [Lecture 5: Non-informative Bayes (February 20)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-5/lecture5-objective.pdf)
++ [Lecture 5: Non-informative Bayes (February 20)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-5/05-objective.pdf)
 
 Module 6: Monte Carlo
 + [Lecture 6: Monte Carlo](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-6/06-monte-carlo.pdf)
