@@ -73,16 +73,16 @@ Module 7: The Metropolis Algorithm
 Module 8: Gibbs Sampling and Data Augmentation
 + [Lecture 8: The Two-stage Gibbs Sampler](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-gibbs.pdf)
 + [Lecture 9: The Multi-stage Gibbs Sampler](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-gibbs-multistage.pdf)
-+ [Lab 7: Intro to Gibbs (March 27)](https://github.com/resteorts/modern-bayes/blob/master/labs/07-gibbs/lab-07.pdf)
++ [Lab 7: Intro to Gibbs (March 20)](https://github.com/resteorts/modern-bayes/blob/master/labs/07-gibbs/lab-07.pdf)
 
 + [Lecture 10: Data augmentation (part I)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment.pdf)
 + [Lecture 11: Data augmentation (part II)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment-part2.pdf)
-+ [Lab 8: Gibbs sampling + data augmentation (April 3)](https://github.com/resteorts/modern-bayes/blob/master/labs/08-gibbs-augmentation/lab-08.pdf)
++ [Lab 8: Gibbs sampling + data augmentation (March 27)](https://github.com/resteorts/modern-bayes/blob/master/labs/08-gibbs-augmentation/lab-08.pdf)
 
 Module 9: Multivariate Normal and Missing Data
 + [Lecture 12: Multivariate Normal](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-9/09-multivariate-norm.pdf)
 + [Lecture 13: Missing Data](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-9/09-missing-data.pdf)
-+ [Lab 9: Multivariate Normal and Missing Data (April 10)](https://github.com/resteorts/modern-bayes/blob/master/labs/09-multivariate-imputation/hw-09.pdf)
++ [Lab 9: Multivariate Normal and Missing Data (April 3)](https://github.com/resteorts/modern-bayes/blob/master/labs/09-multivariate-imputation/hw-09.pdf)
 
 Module 10: Linear and Probit Regression 
 
