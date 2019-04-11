@@ -77,7 +77,7 @@ Module 8: Gibbs Sampling and Data Augmentation
 
 + [Lecture 10: Data augmentation (part I)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment.pdf)
 + [Lecture 11: Data augmentation (part II)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment-part2.pdf)
-+ [Research Lecture]: (https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/job_talk_spring_14_v7_columbia_3.29.14.pdf)
++ [Research lecture](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/job_talk_spring_14_v7_columbia_3.29.14.pdf)
 + [Lab 8: Gibbs sampling + data augmentation (March 27)](https://github.com/resteorts/modern-bayes/blob/master/labs/08-gibbs-augmentation/lab-08.pdf)
 
 Module 9: Multivariate Normal and Missing Data
