@@ -77,6 +77,7 @@ Module 8: Gibbs Sampling and Data Augmentation
 
 + [Lecture 10: Data augmentation (part I)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment.pdf)
 + [Lecture 11: Data augmentation (part II)](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/08-data-augment-part2.pdf)
++ [Research Lecture]: (https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-8/job_talk_spring_14_v7_columbia_3.29.14.pdf)
 + [Lab 8: Gibbs sampling + data augmentation (March 27)](https://github.com/resteorts/modern-bayes/blob/master/labs/08-gibbs-augmentation/lab-08.pdf)
 
 Module 9: Multivariate Normal and Missing Data
@@ -84,13 +85,14 @@ Module 9: Multivariate Normal and Missing Data
 + [Lecture 13: Missing Data](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-9/09-missing-data.pdf)
 + [Lab 9: Multivariate Normal and Missing Data (April 3)](https://github.com/resteorts/modern-bayes/blob/master/labs/09-multivariate-imputation/hw-09.pdf)
 
-Module 10: Linear and Probit Regression 
+Module 10: Linear Regression 
 
 + [Lecture 13: Linear Regression](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-10/10-linear-regression.pdf)
-+ [Lecture 14: Probit Regression](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-10/10-probit-regression.pdf)
 + [Lab 10: Linear Regression](https://github.com/resteorts/modern-bayes/blob/master/labs/10-linear-regression/lab-10.pdf)
 
 Module 11: Model Selection
 
-+ [Lecture 15: Model Selection](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-11/11-model-selection.pdf)
++ [Lecture 14: Model Selection](https://github.com/resteorts/modern-bayes/blob/master/lecturesModernBayes19/lecture-11/11-model-selection.pdf)
 + [Lab 11: Gibbs and Metropolis](https://github.com/resteorts/modern-bayes/blob/master/labs/11-gibbs-and-metropolis/lab9withoutsolutions.pdf)
+
+
